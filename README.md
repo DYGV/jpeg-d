@@ -1,5 +1,5 @@
 # jpeg-d
-## A toy Jpeg decoder
+## A toy JPEG decoder
 This package is a Baseline JPEG decoder created for learning purposes.
 
 ## Usage 
