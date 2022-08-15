@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"E.Okazaki"
+	],
+	"copyright": "Copyright © 2022, E.Okazaki",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "jpeg_d"
+}

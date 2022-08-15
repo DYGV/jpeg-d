@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"E.Okazaki"
+	],
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "decode",
+    "dependencies": {
+        "jpeg_d": {
+            "path": "../../"
+        }
+    }
+}

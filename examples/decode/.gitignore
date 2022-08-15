@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/decode
+decode.so
+decode.dylib
+decode.dll
+decode.a
+decode.lib
+decode-test-*
+*.exe
+*.o
+*.obj
+*.lst

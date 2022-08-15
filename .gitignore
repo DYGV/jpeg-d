@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/jpeg-d
+jpeg-d.so
+jpeg-d.dylib
+jpeg-d.dll
+jpeg-d.a
+jpeg-d.lib
+jpeg-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.a
